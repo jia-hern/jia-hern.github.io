@@ -8,9 +8,3 @@
 [DSTNY](https://choosemydestiny.herokuapp.com/)
 <br />
 [read\.me](https://github.com/jia-hern/dstny)
-
-## ecommerce
-[ecommerce](https://sei23ecommerce.herokuapp.com/)
-<br />
-[read\.me](https://github.com/jia-hern/sei23project4)
-
